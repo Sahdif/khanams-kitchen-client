@@ -61,7 +61,7 @@ const Reviews = () => {
         {review.map((item) => ((
 <div key={item.id} className="box review-box">
                 <img src={customer} alt=""/>
-                <p>{item.comment}</p>
+                <p>"{item.comment}"</p>
                 <h3>{item.name}</h3> 
                 <div className="stars">
                 {item.stars === 5 ?  

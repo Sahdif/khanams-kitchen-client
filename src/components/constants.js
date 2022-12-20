@@ -31,9 +31,9 @@ export const menu = [
 {
     id: "item 1",
     img: img1,
-    name: "Roshagolla",
+    name: "Roshogolla",
     price: "$1.40 Each",
-    description: "Made from fresh chana (made from milk) and soaked in a light syrup made from sugar",
+    description: "Made from fresh chana (made from milk) and soaked in a light syrup made from sugar.",
 },
 
 {
@@ -81,7 +81,7 @@ export const menu = [
     img: img7,
     name: "Malai Chop",
     price: "$2.00 Each",
-    description: "Malai Chop Has A Crisp Exterior And A Soft, Moist Interior, And It Has A Rich, Sweet Flavor. Its Served In A thick Milky malai to enhance the taste",
+    description: "Malai Chop Has A Crisp Exterior And A Soft, Moist Interior, And It Has A Rich, Sweet Flavor. Its Served In A thick Milky malai to enhance the taste.",
 },
 
 {
@@ -89,7 +89,7 @@ export const menu = [
     img: img8,
     name: "Chom Chom",
     price: "$1.80 Each",
-    description: "Soaked In A Sugar Syrup To Preserve It And Enhance Its Flavor, Chom Chom Is An Amazing Sweet That Everyone Will Love.",
+    description: "Soaked In A Sugar Syrup To Preserve And Enhance Its Flavor, Chom Chom Is An Amazing Sweet That Everyone Will Love.",
 },
 
 {
@@ -127,7 +127,7 @@ export const review = [
     {
 
         id: "comment 3",
-        comment: "Masha Allah very yummy sweets.. really love it. Highly recommended.. so delecious...",
+        comment: "Masha Allah very yummy sweets.. really love it. Highly recommended.. so delicious...",
         name: "Munni Alam",
         stars: 5, 
 

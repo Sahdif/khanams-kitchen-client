@@ -16,7 +16,7 @@ const Services = () => {
         <div className="box">
             <img src={family} alt=""/>
             <h3>Family & Friends</h3>
-            <p>We make our sweets for any type of gathering. We put care and effort so your guests can enjoy their time</p>
+            <p>We make our sweets for any type of gathering. We put care and effort so your guests can enjoy their time.</p>
             <a href="#order" className="btn">Order now</a>
         </div>
 
@@ -31,7 +31,7 @@ const Services = () => {
         <div className="box">
             <img src={facebook} alt=""/>
             <h3>Offers and Videos</h3>
-            <p>We update our followers on facebook on new sweets and upload cooking tutorial videos. Give us a follow!</p>
+            <p>We update our followers on facebook about new sweets and upload cooking tutorial videos. Give us a follow!</p>
             <a href="https://www.facebook.com/khanamskitchen" target='_blank' className="btn">Visit our page</a>
         </div>
 

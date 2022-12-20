@@ -18,6 +18,7 @@ const Order = () => {
                 <p>Give us a call and leave a voice note or send a message either by phone or on our facebook page.</p>
                 <h3>0450680199</h3>
                 <p>Note: Our sweets are only for pick up at our store in Glenfield.</p>
+                <p>Note: Our Minimum Order Is 15 Peices Per Sweet.</p>
                 <a href="https://www.facebook.com/khanamskitchen" target='_blank' className="btn">Facebook Page</a>
             </div>
         </div>
