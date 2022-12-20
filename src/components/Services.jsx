@@ -38,7 +38,6 @@ const Services = () => {
         
 
     </div>
-    <p className="note">Note: Our minimum order is 15 peices per sweet.</p>
     
 
 </section>

@@ -27,7 +27,7 @@ const Order = () => {
             <img src={halal} alt=""/>
             <div className="content">
                 <h3>100% Halal</h3>
-                <p>All our ingredients that we use are halal. Our business is run by honesty and respect.</p>
+                <p>All the ingredients that we use are halal. Our business is run by honesty and respect.</p>
             </div>
         </div>
 
