@@ -81,7 +81,7 @@ export const menu = [
     img: img7,
     name: "Malai Chop",
     price: "$2.00 Each",
-    description: "Malai Chop Has A Crisp Exterior And A Soft, Moist Interior, And It Has A Rich, Sweet Flavor. Its Served In A thick Milky malai to enhance the taste.",
+    description: "Crisp Exterior And A Soft, Moist Interior along with it's Rich, Sweet Flavor. It's Served In A thick Milky malai to enhance the taste.",
 },
 
 {
