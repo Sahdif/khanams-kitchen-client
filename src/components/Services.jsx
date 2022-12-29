@@ -7,7 +7,7 @@ import facebook from './image/facebook.svg'
 
 const Services = () => {
   return (
-    <section className="categories" id="categories">
+    <section className="categories" id="services">
 
     <h1 className="heading"> Our <span>Services</span> </h1>
 

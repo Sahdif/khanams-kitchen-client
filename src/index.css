@@ -506,6 +506,10 @@ section{
     color:var(--orange);
 }
 
+.credit span a {
+    color: inherit;
+}
+
 
 
 

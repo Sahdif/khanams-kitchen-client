@@ -17,13 +17,13 @@ const Navbar = () => {
 
 <header className="header">
 
-<a href="#" className="logo"> Khanam's Kithcen </a>
+<a href="#" className="logo"> Khanam's Kitchen </a>
 
 <nav className={isOpen ? 'navbar open' : 'navbar closed'}>
     <a href="#home">home</a>
     <a href="#features">About Us</a>
     <a href="#menu">Menu</a>
-    <a href="#categories">Services</a>
+    <a href="#services">Services</a>
     <a href="#review">Reviews</a>
     <a href="#order">Order</a>
 </nav>

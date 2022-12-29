@@ -10,7 +10,7 @@ const Footer = () => {
             <h3>Khanam's Kitchen</h3>
             <p>The home of south east asian sweets</p>
             <div className="share">
-                <a href="#" className="fab fa-facebook-f"></a>
+                <a href="https://www.facebook.com/khanamskitchen" className="fab fa-facebook-f"></a>
             </div>
         </div>
 
@@ -25,14 +25,14 @@ const Footer = () => {
             <a href="#" className="links"> <i className="fas fa-arrow-right"></i> Home </a>
             <a href="#features" className="links"> <i className="fas fa-arrow-right"></i> About Us </a>
             <a href="#menu" className="links"> <i className="fas fa-arrow-right"></i> Menu </a>
-            <a href="#categories" className="links"> <i className="fas fa-arrow-right"></i> Services </a>
+            <a href="#services" className="links"> <i className="fas fa-arrow-right"></i> Services </a>
             <a href="#review" className="links"> <i className="fas fa-arrow-right"></i> Reviews </a>
             <a href="#blogs" className="links"> <i className="fas fa-arrow-right"></i> Order </a>
         </div>
 
     </div>
 
-    <div className="credit"> created by <span>Sahdif Develops</span> | all rights reserved </div>
+    <div className="credit"> created by <span><a href='http://www.webprofessor.com.au/'>The Web Professor</a></span> | all rights reserved </div>
 
 </section>
   )
